@@ -1,9 +1,9 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { RxDashboard } from "react-icons/rx";
-import { RiTaskLine } from "react-icons/Ri";
-import { AiOutlineProject } from "react-icons/Ai";
-import { RiSettings5Line } from "react-icons/Ri";
+import { RiTaskLine } from "react-icons/ri";
+import { AiOutlineProject } from "react-icons/ai";
+import { RiSettings5Line } from "react-icons/ri";
 
 function NagivationMenu() {
   return (
